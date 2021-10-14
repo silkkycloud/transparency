@@ -12,11 +12,13 @@ AX51-NVME (3)
 
 ### [Cloudflare, Inc.](https://www.cloudflare.com)
 
-`10 USD /m`
+`30 USD /m`
 
 **Service(s)**
 
 Advanced Certificate Manager
+
+Pro plan
 
 ### [Uptime Robot Service Provider Ltd.](https://uptimerobot.com)
 
@@ -53,7 +55,7 @@ B2 Cloud Storage
 *Rounded to first decimal point*
 ```
 178.2 EURO /m
-20 USD /m
+40 USD /m
 
 60 EURO /yr
 ```
@@ -62,7 +64,7 @@ B2 Cloud Storage
 
 *Rounded to first decimal point*
 ```
-306.90 AUD /m
+334 AUD /m
 
 94.20 AUD /yr
 ```
