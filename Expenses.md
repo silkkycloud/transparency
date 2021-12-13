@@ -30,7 +30,7 @@
 
 **Services**
 
-* Wasabi Hot Storage
+* Object Storage
 
 ### [Backblaze, Inc.](https://www.backblaze.com)
 
