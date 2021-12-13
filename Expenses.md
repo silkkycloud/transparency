@@ -51,13 +51,13 @@
 
 # Total
 
-#### Monthly
+### Monthly
 
 **39 USD**
 
 **103.85 EUR**
 
-#### Yearly
+### Yearly
 
 **468 USD**
 
