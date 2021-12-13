@@ -1,70 +1,54 @@
 # Expenses
 
-## Monthly
-
 ### [Hetzner Online GmBH.](https://www.hetzner.com)
 
-`178.2 EURO /m`
+**`103.85 EURO Monthly`**
 
-**Service(s)**
+**Servers**
 
-AX51-NVME (3)
+* CPX41 (3)
+
+* CPX11 (3)
+
+**Load Balancers**
+
+* LB21 (1)
 
 ### [Cloudflare, Inc.](https://www.cloudflare.com)
 
-`30 USD /m`
+**`30 USD Monthly`**
 
-**Service(s)**
+**Services**
 
-Advanced Certificate Manager
+* Advanced Certificate Manager
 
-Pro plan
+* Pro plan
 
-### [Uptime Robot Service Provider Ltd.](https://uptimerobot.com)
+### [Wasabi Technologies, Inc.](https://wasabi.com/)
 
-`8 USD /m`
+**`~ 7 USD Monthly`**
 
-**Service(s)**
+**Services**
 
-PRO 50 Plan
+* Wasabi Hot Storage
 
 ### [Backblaze, Inc.](https://www.backblaze.com)
 
-*Below 2 USD (Only an estimate, varies on usage)*
+**`~ 2 USD Monthly`**
 
-`< 2 USD /m`
+**Services**
 
-**Service(s)**
-
-B2 Cloud Storage
-
-## Yearly
+* B2 Cloud Storage
 
 ### [Njalla. 1337 Services LLC.](https://njal.la)
 
-`60 EURO /yr`
+**`60 EURO Yearly`**
 
-**Services(s)**
+**Domains**
 
-*Domains:*
 * silkky.cloud
 * silkky.dev
 
-# TOTAL
+# Total
 
-*Rounded to first decimal point*
-```
-178.2 EURO /m
-40 USD /m
 
-60 EURO /yr
-```
-
-### Australian Dollar (October 14, 2021)
-
-*Rounded to first decimal point*
-```
-334 AUD /m
-
-94.20 AUD /yr
-```
