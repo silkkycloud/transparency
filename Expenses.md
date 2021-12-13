@@ -2,7 +2,7 @@
 
 ### [Hetzner Online GmBH.](https://www.hetzner.com)
 
-**`103.85 EURO Monthly`**
+**`103.85 EUR Monthly`**
 
 **Servers**
 
@@ -42,7 +42,7 @@
 
 ### [Njalla. 1337 Services LLC.](https://njal.la)
 
-**`60 EURO Yearly`**
+**`60 EUR Yearly`**
 
 **Domains**
 
@@ -51,4 +51,14 @@
 
 # Total
 
+#### Monthly
 
+**39 USD**
+
+**103.85 EUR**
+
+#### Yearly
+
+**468 USD**
+
+**1306.2 EUR**
